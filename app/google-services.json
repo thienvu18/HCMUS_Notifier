@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "733064804975",
+    "firebase_url": "https://hcmus-notifier.firebaseio.com",
+    "project_id": "hcmus-notifier",
+    "storage_bucket": "hcmus-notifier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733064804975:android:0f5cfce1bd87e59c",
+        "android_client_info": {
+          "package_name": "thienvu.hcmusnotifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733064804975-v4auje65oit3u4e7ocsgglfdugma1eoj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "thienvu.hcmusnotifier",
+            "certificate_hash": "165a4201c6c4105679333d69e5ea6f7fb2ec85ae"
+          }
+        },
+        {
+          "client_id": "733064804975-o474c3euikbvgdj10lj63teq49rg2dlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5BHrC6376DNzru4E18ks1ecLT2jqkY20"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733064804975-o474c3euikbvgdj10lj63teq49rg2dlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
